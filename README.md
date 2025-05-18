@@ -37,7 +37,11 @@ It analyzes live Chicago traffic data to detect congestion, forecast speed trend
 
 ![Architecture](images/architecture.png)
 
+<div align="center">
 
+  <p><em>Real-time Traffic Analysis Pipeline</em></p>
+
+</div>
 
 ---
 
