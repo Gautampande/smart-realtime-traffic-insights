@@ -7,11 +7,18 @@ It analyzes live Chicago traffic data to detect congestion, forecast speed trend
 
 ## 📸 Dashboard Preview
 
-| Heatmap | Forecast | Model Prediction |
-|--------|----------|------------------|
-| ![Heatmap](images/heatmap.png) | ![Forecast](images/forecast.png) | ![Model](images/model.png) |
+### 🔥 Real-time Congestion Heatmap
+![Heatmap](images/heatmap.png)
 
-> _Add these screenshots inside an `images/` folder._
+---
+
+### 📈 Speed Forecast (ARIMA)
+![Forecast](images/forecast.png)
+
+---
+
+### 🧠 Congestion Prediction (XGBoost)
+![Model](images/model.png)
 
 ---
 
