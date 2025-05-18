@@ -1,0 +1,11 @@
+streamlit==1.33.0
+pandas==2.2.2
+SQLAlchemy==2.0.29
+psycopg2-binary==2.9.9
+kafka-python==2.0.2
+python-dotenv==1.0.1
+xgboost==2.0.3
+pmdarima>=2.0.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+numpy==1.26.4

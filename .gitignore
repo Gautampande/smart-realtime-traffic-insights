@@ -172,3 +172,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# SSL certificates and keys
+*.pem
+*.key
+*.cert
