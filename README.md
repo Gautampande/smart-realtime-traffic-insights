@@ -33,23 +33,11 @@ It analyzes live Chicago traffic data to detect congestion, forecast speed trend
 
 ---
 
-## 🧠 Architecture
+## 🏗️ System Architecture
 
-```
-      [ Chicago Open Data API ]
-                 |
-         +-------v-------+
-         |   Kafka       |  ← Real-time producer
-         +-------+-------+
-                 |
-         +-------v-------+
-         | PostgreSQL DB |  ← Consumer writes here
-         +-------+-------+
-                 |
-         +-------v-------+
-         |  Streamlit UI |  ← Visualization + ML
-         +---------------+
-```
+![Architecture](images/architecture.png)
+
+
 
 ---
 
